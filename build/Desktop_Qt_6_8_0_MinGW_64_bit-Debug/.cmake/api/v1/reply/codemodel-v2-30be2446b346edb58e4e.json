@@ -1,0 +1,78 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "graphfunctions",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "graphfunctions::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-graphfunctions-Debug-2959de968ab24611912e.json",
+					"name" : "graphfunctions",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "graphfunctions_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-graphfunctions_autogen-Debug-0af2ba057211ef5ca789.json",
+					"name" : "graphfunctions_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "graphfunctions_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-graphfunctions_autogen_timestamp_deps-Debug-253c69d02c7c0ef4dccb.json",
+					"name" : "graphfunctions_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/QtProjects/graphfunctions/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug",
+		"source" : "D:/QtProjects/graphfunctions"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
